@@ -86,7 +86,7 @@ https://show-do-milhao-de-matematica.vercel.app/
 ## 📊 Idade (Atualizada Automaticamente)
 
 <!-- AGE_START -->
-Idade atual: 00 anos
+Idade atual: 17 anos
 <!-- AGE_END -->
 
 ---
