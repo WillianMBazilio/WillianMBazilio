@@ -1,42 +1,65 @@
-# Willian
+<h1 align="center">Willian</h1>
 
-🇧🇷 Português | 🇺🇸 English below
-
----
-
-## 🇧🇷 Sobre mim
-
-Sou desenvolvedor júnior com foco em **Python** e **Game/Metaverso Development**.
-
-Gosto de construir projetos que conectam:
-- Sistemas
-- Renderização
-- Lógica matemática
-- Estrutura bem organizada
-
-Tenho interesse especial em:
-- Engines e simulações
-- Integração entre ambientes (game ↔ sistema operacional)
-- Arquitetura de projetos bem definida
-- Experimentos técnicos com abordagem de laboratório
-
-Atualmente desenvolvendo e explorando novas formas de integrar mundos virtuais com aplicações reais.
+<p align="center">
+Desenvolvedor Júnior • Python • Game/Metaverso • Estrutura e Sistemas
+</p>
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🌎 Language
 
-### RBX Virtual Camera Bridge
-Sistema que transforma renderização interna do Roblox em uma webcam virtual utilizável no sistema operacional.
+- 🇧🇷 Português (padrão)
+- 🇺🇸 [English](#-english)
+- 🇫🇷 [Français](#-français)
+- 🇪🇸 [Español](#-español)
 
-**Stack principal:**
+---
+
+# 🇧🇷 Português
+
+## 👋 Sobre mim
+
+Sou desenvolvedor **júnior** com foco em:
+
+- 🐍 Python  
+- 🎮 Desenvolvimento para Games / Metaverso  
+- 🧠 Estruturação sólida de projetos  
+- 🧮 Lógica e matemática aplicada  
+
+Gosto de construir sistemas organizados, com arquitetura clara e propósito técnico bem definido.
+
+---
+
+## 🚀 Projeto Principal
+
+### 🔗 [RBX Virtual Camera Bridge](https://github.com/WillianMBazilio/RBX-Virtual-Camera-Bridge/)
+
+Sistema que transforma a renderização interna do Roblox em uma webcam virtual utilizável no sistema operacional.
+
+**Stack:**
 - Python
 - OpenCV
 - Flask
 - Lua (Roblox)
 - pyvirtualcam
 
-> Foco em renderização via raycasting + transmissão em tempo real.
+> Renderização baseada em raycasting + transmissão em tempo real.
+
+---
+
+## 🧪 Outros Projetos
+
+**Pro Reaction**  
+Treinamento cognitivo para atletas.  
+https://treinamento-cognitivo.vercel.app/
+
+**Sea Studios**  
+Ecossistema digital experimental.  
+https://seastudios.vercel.app/
+
+**Show do Milhão de Matemática**  
+Projeto educacional em pixel art.  
+https://show-do-milhao-de-matematica.vercel.app/
 
 ---
 
@@ -53,27 +76,10 @@ Sistema que transforma renderização interna do Roblox em uma webcam virtual ut
 - Git
 - Linux
 
-**Base Técnica**
+**Base**
 - Estruturação de projetos (forte)
-- Lógica e vetores (bom)
+- Lógica matemática e vetores (bom)
 - Conceitos de APIs e HTTP
-- Fundamentos de banco de dados
-
----
-
-## 🧪 Outros Projetos
-
-### Pro Reaction  
-Plataforma de treino cognitivo inspirada em modelos de treinamento esportivo.  
-🔗 https://treinamento-cognitivo.vercel.app/
-
-### Sea Studios  
-Ecossistema digital e experimental.  
-🔗 https://seastudios.vercel.app/
-
-### Show do Milhão de Matemática  
-Projeto educacional em pixel art.  
-🔗 https://show-do-milhao-de-matematica.vercel.app
 
 ---
 
@@ -83,36 +89,82 @@ Projeto educacional em pixel art.
 Idade atual: 00 anos
 <!-- AGE_END -->
 
-> Atualizado automaticamente via GitHub Actions.
+---
+
+# 🇺🇸 English
+
+## 👋 About Me
+
+Junior developer focused on:
+
+- 🐍 Python  
+- 🎮 Game / Metaverse Development  
+- 🧠 Structured system architecture  
+- 🧮 Applied logic and mathematics  
+
+I enjoy building technically structured systems with clear architecture.
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Main Project
 
-Crescer como engenheiro de software com foco em:
-- Sistemas
-- Computação gráfica
-- Integração entre ambientes virtuais e aplicações reais
-- Arquitetura sólida
+### 🔗 [RBX Virtual Camera Bridge](https://github.com/WillianMBazilio/RBX-Virtual-Camera-Bridge/)
 
----
+A system that converts internal Roblox rendering into an OS-level virtual webcam.
 
-# 🇺🇸 About Me
+**Stack:**
+- Python
+- OpenCV
+- Flask
+- Lua
+- pyvirtualcam
 
-Junior developer focused on **Python** and **Game/Metaverse Development**.
-
-I enjoy building systems that connect:
-- Rendering
-- Mathematical logic
-- Structured architecture
-- Cross-environment integrations
-
-Currently exploring ways to bridge virtual worlds with real-world applications.
+> Raycast-based rendering + real-time transmission.
 
 ---
 
-## 🎯 Goals
+# 🇫🇷 Français
 
-Develop strong engineering foundations while building experimental and technically structured projects.
+## 👋 À propos de moi
+
+Développeur junior spécialisé en :
+
+- Python  
+- Développement Game / Métavers  
+- Architecture de systèmes  
+- Logique mathématique  
+
+Je construis des projets avec une structure technique claire et organisée.
+
+---
+
+## 🚀 Projet Principal
+
+### 🔗 RBX Virtual Camera Bridge
+
+Système qui transforme le rendu interne de Roblox en webcam virtuelle utilisable par le système.
+
+---
+
+# 🇪🇸 Español
+
+## 👋 Sobre mí
+
+Desarrollador junior enfocado en:
+
+- Python  
+- Desarrollo Game / Metaverso  
+- Arquitectura estructurada  
+- Lógica matemática aplicada  
+
+Construyo sistemas con organización técnica clara.
+
+---
+
+## 🚀 Proyecto Principal
+
+### 🔗 RBX Virtual Camera Bridge
+
+Sistema que convierte el renderizado interno de Roblox en una cámara virtual utilizable en el sistema operativo.
 
 ---
