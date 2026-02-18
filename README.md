@@ -86,7 +86,7 @@ https://show-do-milhao-de-matematica.vercel.app/
 ## 📊 Idade
 
 <!-- AGE_START -->
-Idade atual: ![Age](https://img.shields.io/badge/Age-16-blue)
+Idade atual: 17 anos
 <!-- AGE_END -->
 
 ---
